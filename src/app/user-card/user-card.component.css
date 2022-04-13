@@ -1,0 +1,16 @@
+.card {
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: antiquewhite;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 5px;  
+}
+
+.card h3 {
+    color: green;
+}
+
+.details .job{
+    font-weight: bold;
+}
